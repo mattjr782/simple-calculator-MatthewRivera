@@ -31,7 +31,7 @@ total = tip + cost
 total = round(total, 2)
 
 #print totals
-print("Spent on meal ", cost)
-print("tip percentage, ", tipPercentage)
+print("Spent on meal: ", cost)
+print("tip percentage: ", tipPercentage)
 print("total tip: tip", tip)
 print("grand total: ", total)
